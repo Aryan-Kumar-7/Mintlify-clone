@@ -87,4 +87,5 @@ Inspired directly by Mintlify’s light theme:
 ## 📸 Screenshots
 ```md
 ### Desktop View
+
 ![Screenshot](screenshots/screenshot.png)
